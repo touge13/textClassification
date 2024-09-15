@@ -1,6 +1,6 @@
 Программа классифицирует отзывы ресторана на положительные и отрицательные с помощью нейронной сети на PyTorch.
 
-За теоретической основой предлагаю обратиться к файлу [https://github.com/touge13/textClassification/blob/main/theory.ipynb]
+За теоретической основой предлагаю обратиться к файлу theory.ipynb: https://github.com/touge13/textClassification/blob/main/theory.ipynb
 
 ## Архитектура проекта:
 
